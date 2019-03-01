@@ -20,4 +20,4 @@ Additional Contacts:
   
   Dr. Martin Zwick      zwick@pdx.edu
   
-  Forrest Alexander     h.forrest.alexander@gmail.com
+  Heather Forrest Alexander     h.forrest.alexander@gmail.com
