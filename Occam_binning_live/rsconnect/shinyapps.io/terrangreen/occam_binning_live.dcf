@@ -1,0 +1,10 @@
+name: occam_binning_live
+title:
+username:
+account: terrangreen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 309829
+bundleId: 1291006
+url: https://terrangreen.shinyapps.io/occam_binning_live/
+when: 1522187374.10417
