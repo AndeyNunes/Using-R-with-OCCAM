@@ -19,5 +19,4 @@ Additional Contacts:
   OCCAM feedback email  occam-feedback@lists.pdx.edu
   
   Dr. Martin Zwick      zwick@pdx.edu
-  
-  Heather Forrest Alexander     h.forrest.alexander@gmail.com
+
